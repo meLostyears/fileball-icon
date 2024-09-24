@@ -1,5 +1,5 @@
 {
-"name":"Fileball Icon", 
+"name":"own use Icon", 
 "icons":
     [
         {"name":"xingguangcanlan", "url":"https://raw.githubusercontent.com/meLostyears/Fileball-icon/main/YUAN/xingguangcanlan2.png"},
@@ -31,6 +31,7 @@
         {"name":"shufu", "url":"https://raw.githubusercontent.com/meLostyears/Fileball-icon/main/YUAN/shufu.png"},
         {"name":"belugaclothing", "url":"https://raw.githubusercontent.com/meLostyears/Fileball-icon/main/YUAN/belugaclothing.png"},
         {"name":"bt", "url":"https://raw.githubusercontent.com/meLostyears/Fileball-icon/main/YUAN/bt.png"}
+        {"name":"emby", "url":"https://raw.githubusercontent.com/meLostyears/Fileball-icon/main/YUAN/embylogo.png"},
         
     ]
 }
